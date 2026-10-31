@@ -1,0 +1,1 @@
+Optional Streamlit theme configuration can be added in .streamlit/config.toml.

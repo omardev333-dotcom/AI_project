@@ -1,0 +1,18 @@
+{
+  "model": "RandomForestRegressor",
+  "rows": 1200,
+  "train_rows": 960,
+  "test_rows": 240,
+  "mae": 4.6,
+  "rmse": 5.84,
+  "r2": 0.738,
+  "features": [
+    "study_hours",
+    "attendance",
+    "previous_grade",
+    "assignment_score",
+    "sleep_hours",
+    "past_failures"
+  ],
+  "data_note": "Metrics are from synthetic demo data only."
+}
